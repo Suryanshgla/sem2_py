@@ -12,6 +12,6 @@ for i in range(0,n//2):
     lst[n-1-i] = c
 print(lst)
 if(flag == n//2):
-    print("ITS A PPALINDROME")
+    print("ITS A PALINDROME")
 else:
     print("ITS NOT A PALINDRONE")
