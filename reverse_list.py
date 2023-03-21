@@ -1,5 +1,5 @@
 lst = []
-n = int(input("enter limit"))
+n = int(input("ENTER LIMIT : "))
 for i in range(0,n):
     lst.append(input())
 print(lst)
